@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clean Cite Markers"
+  short_description: "Remove LLM cite marker artifacts"
+  default_prompt: "Use $clean-cite-markers to remove cite markers from this Markdown file without changing the report content."
